@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adri-candra-saputra-m-9696a3195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adri-candra-saputra-m" height="30" width="40" /></a>
-<a href="https://web.facebook.com/adricandrasaputramangidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adricandrasaputramangidi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/adri_csm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adri_csm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@adracmangidi368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adrac mangidi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adri-candra-saputra-m-9696a3195/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adri-candra-saputra-m" height="30" width="40" /></a>
+<a href="https://web.facebook.com/adricandrasaputramangidi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adricandrasaputramangidi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/adri_csm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adri_csm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@adracmangidi368" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adrac mangidi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
