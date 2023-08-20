@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adri CSM</h1>
-<h3 align="center">Greetings! I am a mining engineering student hailing from Indonesia, exploring the dynamic world of programming. My expertise lies in backend development, where I've mastered JavaScript tools like Node.js, Hapi, and Express. Beyond that, I possess a creative flair for crafting captivating user interfaces using HTML, CSS, Bootstrap, Vue.js, Vuetify, and Vuex. In the realm of data management and app vitality, I bring a powerful toolkit including MongoDB, PostgreSQL, Firebase, along with the prowess of Redis and RabbitMQ. Join me in seamlessly blending engineering and programming to create something extraordinary.</h3>
+<h1 align="start">Hi 👋, I'm Adri CSM</h1>
+<p align="start">Greetings! I am a mining engineering student hailing from Indonesia, exploring the dynamic world of programming. My expertise lies in backend development, where I've mastered JavaScript tools like Node.js, Hapi, and Express. Beyond that, I possess a creative flair for crafting captivating user interfaces using HTML, CSS, Bootstrap, Vue.js, Vuetify, and Vuex. In the realm of data management and app vitality, I bring a powerful toolkit including MongoDB, PostgreSQL, Firebase, along with the prowess of Redis and RabbitMQ. Join me in seamlessly blending engineering and programming to create something extraordinary.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adricsm&label=Profile%20views&color=0e75b6&style=flat" alt="adricsm" /> </p>
 
